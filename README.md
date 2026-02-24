@@ -1,26 +1,31 @@
-name: Generate Datas
+# 👋 Opa! Eu sou o Levy
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+💻 Estudante de **Desenvolvimento Full Stack**  
+🎯 Em busca de **estágio na área de desenvolvimento**  
+🚀 Curto aprender criando projetos na prática
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: LevyMatos0
-          svg_out_path: dist/github-contribution-grid-snake.svg
+---
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+## 🛠️ Tecnologias que uso
+- **Linguagens:** JavaScript, Python, C#, HTML, CSS  
+- **Frameworks / Libs:** Vue.js, Bootstrap  
+- **Banco de dados:** MySQL  
+- **Ferramentas:** Git, GitHub  
+
+---
+
+## 📂 O que você vai encontrar por aqui
+📌 Projetos focados em aprendizado e prática real, como:
+- ✔️ **CRUD completo**
+- 🌐 **Site consumindo API**
+- 🎨 **Portfólio pessoal**
+- 📚 **Projetos de estudo** (lógica, front-end e back-end)
+
+---
+
+## 🎯 Objetivo
+Conseguir meu **primeiro estágio como desenvolvedor**, aprender com projetos reais, evoluir como full stack e contribuir com o time.
+
+---
+
+📫 Fique à vontade para explorar meus repositórios!
