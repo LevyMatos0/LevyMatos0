@@ -19,8 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
----
 
+---
 ## 📂 O que você vai encontrar por aqui
 📌 Projetos focados em aprendizado e prática real, como:
 - ✔️ **CRUD completo**
