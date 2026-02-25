@@ -21,7 +21,7 @@ jobs:
           github_user_name: LevyMatos0
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff0000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff0000&bg_color=%230d1117&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
