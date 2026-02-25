@@ -46,4 +46,9 @@ Conseguir meu **primeiro estágio como desenvolvedor**, aprender com projetos re
 📫 Fique à vontade para explorar meus repositórios!
 
 
-![Snake animation dark](https://raw.githubusercontent.com/LevyMatos0/LevyMatos0/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LevyMatos0/LevyMatos0/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/LevyMatos0/LevyMatos0/output/github-contribution-grid-snake.svg">
+</picture>
