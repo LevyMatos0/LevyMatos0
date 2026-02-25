@@ -26,9 +26,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LevyMatos0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            outputs:  dist/github-contribution-grid-snake.svg 
+            dist/github-contribution-grid-snake-dark.svg?
+    snake_color=#ff0000&
+    bg_color=#0d1117&
+    color_dots=#161b22,#330000,#660000,#990000,#ff0000
 
       # envia os arquivos gerados para a branch output
       - name: push github-contribution-grid-snake.svg to the output branch
